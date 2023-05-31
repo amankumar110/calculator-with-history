@@ -4,4 +4,4 @@ The calculator performs simple mathematical operations on the inputs provided wi
 
 # link
 
-https://github.com/amankumar110/calculator-with-history.git
+https://amankumar110.github.io/calculator-with-history
